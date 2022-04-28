@@ -1,1 +1,242 @@
-[{"title": "DevOps", "company_name": "QSI Recruitment"}, {"title": "[ID] DevOps Engineer", "company_name": "Doctor Anywhere"}, {"title": "DevOps", "company_name": "DDTC"}, {"title": "DevOps Engineer [Cloud]", "company_name": "Kompas Gramedia"}, {"title": "DevOps Engineer", "company_name": "Bank Central Asia - BCA"}, {"title": "DevOps", "company_name": "PT Nostra Solusi Teknologi"}, {"title": "Engineering Manager - Transport", "company_name": "GO-JEK"}, {"title": "DevOps Engineer", "company_name": "GITS Indonesia"}, {"title": "Senior Devops Specialist", "company_name": "Cloud Kinetics"}, {"title": "DevOps Engineer (Biller Aggregator)", "company_name": "byOrange"}, {"title": "BaruFront End Developer", "company_name": "ATI Business Group"}, {"title": "DevOps Engineer", "company_name": "JULO"}, {"title": "Devops Engineer", "company_name": "PT. ALTO Network"}, {"title": "Senior DevOps Engineer", "company_name": "FinAccel"}, {"title": "BaruCloud Engineer", "company_name": "Aplika"}, {"title": "Allegro - Devops Engineer - 7051", "company_name": "ION"}, {"title": "Data Engineer", "company_name": "GO-JEK"}, {"title": "DEVOPS", "company_name": "PT Komunitas Anak Bangsa"}, {"title": "BaruEngineering Manager - Backend", "company_name": "byOrange"}, {"title": "BaruQA Automation Engineer (Remote)", "company_name": "HappyFresh"}, {"title": "DevOps Lead", "company_name": "Global Tiket Network"}, {"title": "DevOps Engineer (Kafka)", "company_name": "SEON. Fraud Fighters"}, {"title": "Senior DevOps Engineer - Merchant Platform", "company_name": "GO-JEK"}, {"title": "Software Engineer - Oval Data", "company_name": "Kompas Gramedia"}, {"title": "DevOps Engineer", "company_name": "SEON. Fraud Fighters"}, {"title": "DevOps", "company_name": "CrediBook"}, {"title": "Senior Devops", "company_name": "Ajaib"}, {"title": "BaruEngineering Manager - Backend", "company_name": "Zenius Education"}, {"title": "DevOps Engineer", "company_name": "Dans Multi Pro"}, {"title": "DevOps Engineer", "company_name": "Reeracoen Indonesia"}, {"title": "Integration Developer", "company_name": "GO-JEK"}, {"title": "Business Analyst", "company_name": "PT. Orang Informasi Teknologi"}, {"title": "ARCHITECH IT", "company_name": "PT. AMRECINDO PUTRA MANDIRI"}, {"title": "Senior Software Engineer / Senior Devops Engineer (Support R...", "company_name": "iZeno"}, {"title": "Senior Backend Engineering", "company_name": "CT Corp Digital"}, {"title": "Back End Engineer - CITIS", "company_name": "Kompas Gramedia"}, {"title": "DevOps", "company_name": "Otto Digital"}, {"title": "DevOps Engineer", "company_name": "Alodokter"}, {"title": "Back End Developer", "company_name": "PGI Data"}, {"title": "DevOps", "company_name": "PT Swadharma Duta Data"}, {"title": "DevOps Engineer", "company_name": "Errai Pasifik"}, {"title": "DevOps Engineer", "company_name": "Stockbit"}, {"title": "Backend Developer", "company_name": "PT Bank Central Asia Tbk"}, {"title": "C# Developer", "company_name": "Petrolink International"}, {"title": "Senior Cloud Infra & Devops Engineer", "company_name": "Agriaku"}, {"title": "Cloud Engineer (Managed Services)", "company_name": "iZeno"}, {"title": "DevOps Engineer - Merchant Platform", "company_name": "GO-JEK"}, {"title": "Tech Lead", "company_name": "LIF"}, {"title": "Baru(Tech SaaS) Platform DevOps Lead", "company_name": "MatchaTalent"}, {"title": "Devops Engineer", "company_name": "ASYX International"}, {"title": "Software Test Engineer", "company_name": "Petrolink International"}, {"title": "Lead Developer", "company_name": "sribu.com"}, {"title": "BaruSenior .NET Developer", "company_name": "We Are Zacapa"}, {"title": "Dev Ops Engineer", "company_name": "1rstWAP"}, {"title": "Product Owner", "company_name": "PhinCon"}, {"title": "DevOps Engineer", "company_name": "Kolektibel"}, {"title": "Cloud Engineer (Local Support)", "company_name": "iZeno"}, {"title": "DevOps & Scalability Engineer", "company_name": "Indosystem"}, {"title": "Server Engineer", "company_name": "NTT INDONESIA TECHNOLOGY"}, {"title": "ITIFS13 - Service Catalog Engineer", "company_name": "PT Bank Mandiri (Persero) Tbk."}]
+[
+  {
+    "title": "DevOps",
+    "company_name": "QSI Recruitment"
+  },
+  {
+    "title": "[ID] DevOps Engineer",
+    "company_name": "Doctor Anywhere"
+  },
+  {
+    "title": "DevOps",
+    "company_name": "DDTC"
+  },
+  {
+    "title": "DevOps Engineer [Cloud]",
+    "company_name": "Kompas Gramedia"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "Bank Central Asia - BCA"
+  },
+  {
+    "title": "DevOps",
+    "company_name": "PT Nostra Solusi Teknologi"
+  },
+  {
+    "title": "Engineering Manager - Transport",
+    "company_name": "GO-JEK"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "GITS Indonesia"
+  },
+  {
+    "title": "Senior Devops Specialist",
+    "company_name": "Cloud Kinetics"
+  },
+  {
+    "title": "DevOps Engineer (Biller Aggregator)",
+    "company_name": "byOrange"
+  },
+  {
+    "title": "BaruFront End Developer",
+    "company_name": "ATI Business Group"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "JULO"
+  },
+  {
+    "title": "Devops Engineer",
+    "company_name": "PT. ALTO Network"
+  },
+  {
+    "title": "Senior DevOps Engineer",
+    "company_name": "FinAccel"
+  },
+  {
+    "title": "BaruCloud Engineer",
+    "company_name": "Aplika"
+  },
+  {
+    "title": "Allegro - Devops Engineer - 7051",
+    "company_name": "ION"
+  },
+  {
+    "title": "Data Engineer",
+    "company_name": "GO-JEK"
+  },
+  {
+    "title": "DEVOPS",
+    "company_name": "PT Komunitas Anak Bangsa"
+  },
+  {
+    "title": "BaruEngineering Manager - Backend",
+    "company_name": "byOrange"
+  },
+  {
+    "title": "BaruQA Automation Engineer (Remote)",
+    "company_name": "HappyFresh"
+  },
+  {
+    "title": "DevOps Lead",
+    "company_name": "Global Tiket Network"
+  },
+  {
+    "title": "DevOps Engineer (Kafka)",
+    "company_name": "SEON. Fraud Fighters"
+  },
+  {
+    "title": "Senior DevOps Engineer - Merchant Platform",
+    "company_name": "GO-JEK"
+  },
+  {
+    "title": "Software Engineer - Oval Data",
+    "company_name": "Kompas Gramedia"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "SEON. Fraud Fighters"
+  },
+  {
+    "title": "DevOps",
+    "company_name": "CrediBook"
+  },
+  {
+    "title": "Senior Devops",
+    "company_name": "Ajaib"
+  },
+  {
+    "title": "BaruEngineering Manager - Backend",
+    "company_name": "Zenius Education"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "Dans Multi Pro"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "Reeracoen Indonesia"
+  },
+  {
+    "title": "Integration Developer",
+    "company_name": "GO-JEK"
+  },
+  {
+    "title": "Business Analyst",
+    "company_name": "PT. Orang Informasi Teknologi"
+  },
+  {
+    "title": "ARCHITECH IT",
+    "company_name": "PT. AMRECINDO PUTRA MANDIRI"
+  },
+  {
+    "title": "Senior Software Engineer / Senior Devops Engineer (Support R...",
+    "company_name": "iZeno"
+  },
+  {
+    "title": "Senior Backend Engineering",
+    "company_name": "CT Corp Digital"
+  },
+  {
+    "title": "Back End Engineer - CITIS",
+    "company_name": "Kompas Gramedia"
+  },
+  {
+    "title": "DevOps",
+    "company_name": "Otto Digital"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "Alodokter"
+  },
+  {
+    "title": "Back End Developer",
+    "company_name": "PGI Data"
+  },
+  {
+    "title": "DevOps",
+    "company_name": "PT Swadharma Duta Data"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "Errai Pasifik"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "Stockbit"
+  },
+  {
+    "title": "Backend Developer",
+    "company_name": "PT Bank Central Asia Tbk"
+  },
+  {
+    "title": "C# Developer",
+    "company_name": "Petrolink International"
+  },
+  {
+    "title": "Senior Cloud Infra & Devops Engineer",
+    "company_name": "Agriaku"
+  },
+  {
+    "title": "Cloud Engineer (Managed Services)",
+    "company_name": "iZeno"
+  },
+  {
+    "title": "DevOps Engineer - Merchant Platform",
+    "company_name": "GO-JEK"
+  },
+  {
+    "title": "Tech Lead",
+    "company_name": "LIF"
+  },
+  {
+    "title": "Baru(Tech SaaS) Platform DevOps Lead",
+    "company_name": "MatchaTalent"
+  },
+  {
+    "title": "Devops Engineer",
+    "company_name": "ASYX International"
+  },
+  {
+    "title": "Software Test Engineer",
+    "company_name": "Petrolink International"
+  },
+  {
+    "title": "Lead Developer",
+    "company_name": "sribu.com"
+  },
+  {
+    "title": "BaruSenior .NET Developer",
+    "company_name": "We Are Zacapa"
+  },
+  {
+    "title": "Dev Ops Engineer",
+    "company_name": "1rstWAP"
+  },
+  {
+    "title": "Product Owner",
+    "company_name": "PhinCon"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "Kolektibel"
+  },
+  {
+    "title": "Cloud Engineer (Local Support)",
+    "company_name": "iZeno"
+  },
+  {
+    "title": "DevOps & Scalability Engineer",
+    "company_name": "Indosystem"
+  },
+  {
+    "title": "Server Engineer",
+    "company_name": "NTT INDONESIA TECHNOLOGY"
+  },
+  {
+    "title": "ITIFS13 - Service Catalog Engineer",
+    "company_name": "PT Bank Mandiri (Persero) Tbk."
+  }
+]

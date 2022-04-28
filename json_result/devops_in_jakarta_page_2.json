@@ -1,1 +1,62 @@
-[{"title": "Allegro - Devops Engineer - 7051", "company_name": "ION"}, {"title": "Data Engineer", "company_name": "GO-JEK"}, {"title": "DEVOPS", "company_name": "PT Komunitas Anak Bangsa"}, {"title": "BaruEngineering Manager - Backend", "company_name": "byOrange"}, {"title": "BaruQA Automation Engineer (Remote)", "company_name": "HappyFresh"}, {"title": "DevOps Lead", "company_name": "Global Tiket Network"}, {"title": "DevOps Engineer (Kafka)", "company_name": "SEON. Fraud Fighters"}, {"title": "Senior DevOps Engineer - Merchant Platform", "company_name": "GO-JEK"}, {"title": "Software Engineer - Oval Data", "company_name": "Kompas Gramedia"}, {"title": "DevOps Engineer", "company_name": "SEON. Fraud Fighters"}, {"title": "DevOps", "company_name": "CrediBook"}, {"title": "Senior Devops", "company_name": "Ajaib"}, {"title": "BaruEngineering Manager - Backend", "company_name": "Zenius Education"}, {"title": "DevOps Engineer", "company_name": "Dans Multi Pro"}, {"title": "DevOps Engineer", "company_name": "Reeracoen Indonesia"}]
+[
+  {
+    "title": "Allegro - Devops Engineer - 7051",
+    "company_name": "ION"
+  },
+  {
+    "title": "Data Engineer",
+    "company_name": "GO-JEK"
+  },
+  {
+    "title": "DEVOPS",
+    "company_name": "PT Komunitas Anak Bangsa"
+  },
+  {
+    "title": "BaruEngineering Manager - Backend",
+    "company_name": "byOrange"
+  },
+  {
+    "title": "BaruQA Automation Engineer (Remote)",
+    "company_name": "HappyFresh"
+  },
+  {
+    "title": "DevOps Lead",
+    "company_name": "Global Tiket Network"
+  },
+  {
+    "title": "DevOps Engineer (Kafka)",
+    "company_name": "SEON. Fraud Fighters"
+  },
+  {
+    "title": "Senior DevOps Engineer - Merchant Platform",
+    "company_name": "GO-JEK"
+  },
+  {
+    "title": "Software Engineer - Oval Data",
+    "company_name": "Kompas Gramedia"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "SEON. Fraud Fighters"
+  },
+  {
+    "title": "DevOps",
+    "company_name": "CrediBook"
+  },
+  {
+    "title": "Senior Devops",
+    "company_name": "Ajaib"
+  },
+  {
+    "title": "BaruEngineering Manager - Backend",
+    "company_name": "Zenius Education"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "Dans Multi Pro"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company_name": "Reeracoen Indonesia"
+  }
+]
